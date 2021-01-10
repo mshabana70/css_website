@@ -27,3 +27,7 @@ body {
 .sub {
   color: #0d7377;
 }
+
+.pro {
+  text-decoration: underline;
+}
