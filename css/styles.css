@@ -1,3 +1,29 @@
 body {
-    background-color: blueviolet;
+  margin: 0px 0px;
+}
+
+div {
+  background-color: #323232;
+}
+
+.middle-container {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom-container {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.header {
+  color: #14ffec;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.sub {
+  color: #0d7377;
 }
